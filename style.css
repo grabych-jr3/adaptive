@@ -45,6 +45,9 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 .header__menu-button{
   display: none;
 }
+.header__menu-button:hover{
+  color: #d5e245;
+}
 .header{
   max-width: 100%;
   height: 90px;
